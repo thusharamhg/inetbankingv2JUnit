@@ -31,9 +31,4 @@ public class JUnit_TestSuite {
         Reporting.start(); // Start the reporting
     }
     
-    @After
-    public static void tearDown() {
-        Reporting.extent.flush(); // Flush the report
-    }
-
 }

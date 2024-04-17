@@ -401,3 +401,19 @@
 2024-04-10 17:58:31,068 - ebanking - INFO - 9
 2024-04-10 17:58:35,434 - ebanking - INFO - Assert Validation Started...
 2024-04-10 17:58:35,446 - ebanking - INFO - Test Case 003 Passed
+2024-04-10 18:22:23,468 - ebanking - INFO - URL is Opened
+2024-04-10 18:22:23,608 - ebanking - INFO - Entered Username
+2024-04-10 18:22:23,663 - ebanking - INFO - Entered Password
+2024-04-10 18:22:24,775 - ebanking - INFO - Login Test Passed
+2024-04-10 18:22:37,054 - ebanking - INFO - Providing customer details...
+2024-04-10 18:22:37,143 - ebanking - INFO - 1
+2024-04-10 18:22:37,192 - ebanking - INFO - 2
+2024-04-10 18:22:37,315 - ebanking - INFO - 3
+2024-04-10 18:22:40,377 - ebanking - INFO - 4
+2024-04-10 18:22:40,432 - ebanking - INFO - 5
+2024-04-10 18:22:40,484 - ebanking - INFO - 6
+2024-04-10 18:22:40,537 - ebanking - INFO - 7
+2024-04-10 18:22:40,591 - ebanking - INFO - 8
+2024-04-10 18:22:40,650 - ebanking - INFO - 9
+2024-04-10 18:22:45,371 - ebanking - INFO - Assert Validation Started...
+2024-04-10 18:22:45,386 - ebanking - INFO - Test Case 003 Passed
